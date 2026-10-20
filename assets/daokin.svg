@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1660" height="492" viewBox="0 0 1660 492">
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1">
+      <stop stop-color="#f4f1e8"/>
+      <stop offset="1" stop-color="#e8e9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="1660" height="492" fill="url(#paper)"/>
+  <rect x="24" y="24" width="1612" height="444" fill="none" stroke="#72795e" stroke-opacity=".2"/>
+  <text x="80" y="89" fill="#737b60" font-family="DejaVu Sans, sans-serif" font-size="17" letter-spacing="4">AI + WEB3 / A WORK IN PROGRESS</text>
+  <text x="74" y="218" fill="#252d1e" font-family="Georgia, Liberation Serif, serif" font-size="112" letter-spacing="-4">DaoKin</text>
+  <text x="80" y="285" fill="#3c4732" font-family="DejaVu Sans, sans-serif" font-size="31">Where kin become Daos.</text>
+  <text x="80" y="342" fill="#6b745b" font-family="Noto Serif CJK SC, serif" font-size="25" letter-spacing="4">同道者聚，诸道自生。</text>
+  <text x="80" y="415" fill="#72795e" font-family="DejaVu Sans, sans-serif" font-size="17">User-owned creations. Shared purpose. New possibilities.</text>
+  <g transform="translate(1248 246)">
+    <circle r="173" fill="none" stroke="#899479" stroke-opacity=".28"/>
+    <circle r="126" fill="none" stroke="#899479" stroke-opacity=".5"/>
+    <path d="M-108 62 0-124 108 62Z" fill="none" stroke="#8e9d7b" stroke-width="2"/>
+    <path d="M0-124V0m-108 62L0 0l108 62" fill="none" stroke="#8e9d7b" stroke-width="2"/>
+    <circle r="54" fill="#26301e"/>
+    <path d="M0-37 9 0 0 37-9 0Z" fill="#e6a058"/>
+    <circle r="4" fill="#f1eee4"/>
+    <circle cy="-124" r="18" fill="#a3b18f" stroke="#f0f0e7" stroke-width="5"/>
+    <circle cx="-108" cy="62" r="18" fill="#d5a26b" stroke="#f0f0e7" stroke-width="5"/>
+    <circle cx="108" cy="62" r="18" fill="#a3b18f" stroke="#f0f0e7" stroke-width="5"/>
+    <text x="0" y="-165" text-anchor="middle" fill="#566147" font-family="DejaVu Sans, sans-serif" font-size="17" letter-spacing="2">PEOPLE</text>
+    <text x="-184" y="115" text-anchor="middle" fill="#566147" font-family="DejaVu Sans, sans-serif" font-size="17" letter-spacing="2">CREATIONS</text>
+    <text x="178" y="115" text-anchor="middle" fill="#566147" font-family="DejaVu Sans, sans-serif" font-size="17" letter-spacing="2">COMMUNITIES</text>
+  </g>
+</svg>
