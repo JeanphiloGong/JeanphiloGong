@@ -2,7 +2,9 @@
   <img src="assets/banner.png" width="100%" alt="Jeanphilo Gong. Builder. Explorer of AI and Web3.">
 </p>
 
-Builder. Explorer of new things. I work on AI + Web3, research tools, and developer workflows.
+Building AI + Web3 products. Exploring research tools and developer workflows.
+
+Currently building <a href="https://github.com/JeanphiloGong/daokin"><strong>DaoKin</strong></a> — experiments in user-owned creations and communities.
 
 <p>
   <a href="https://jeanphilogong.github.io/jeanblog/"><img src="assets/icon-web.svg" width="18" height="18" alt=""> Blog</a>
@@ -23,8 +25,8 @@ Builder. Explorer of new things. I work on AI + Web3, research tools, and develo
     </td>
     <td>
       <a href="https://github.com/JeanphiloGong/daokin"><strong>DaoKin</strong></a><br>
-      Exploring AI + Web3 for user-owned creations and communities. Where kin become Daos.<br>
-      <code>Work in progress</code> · SvelteKit / Go / Solidity
+      AI + Web3 for user-owned creations and communities. Where kin become Daos.<br>
+      <code>Early prototype</code> · SvelteKit / Go / Solidity
     </td>
   </tr>
   <tr>
@@ -33,7 +35,7 @@ Builder. Explorer of new things. I work on AI + Web3, research tools, and develo
     </td>
     <td>
       <a href="https://github.com/JeanphiloGong/tsingai-lens"><strong>Lens</strong></a><br>
-      Research across papers: inspect sources, compare results, and trace findings back to evidence.<br>
+      Compare results across papers and trace research findings back to their sources.<br>
       <code>In development</code> · Materials science first
     </td>
   </tr>
@@ -43,7 +45,8 @@ Builder. Explorer of new things. I work on AI + Web3, research tools, and develo
     </td>
     <td>
       <a href="https://github.com/JeanphiloGong/Agents-spec"><strong>Agents-spec</strong></a><br>
-      Role-based instructions, Codex Skills, and reusable workflows for working with coding agents.
+      Role-based AGENTS.md specs, Codex Skills, and reusable workflows for coding agents.<br>
+      <code>Specs &amp; skills</code> · Developer workflows
     </td>
   </tr>
   <tr>
@@ -52,7 +55,8 @@ Builder. Explorer of new things. I work on AI + Web3, research tools, and develo
     </td>
     <td>
       <a href="https://github.com/JeanphiloGong/ai-translator"><strong>AI Translator</strong></a><br>
-      English and Japanese translation, grammar notes, and local history. A small tool for everyday learning.
+      English and Japanese translation, grammar notes, and a local history for everyday learning.<br>
+      <code>CLI + API</code> · Python / FastAPI / SQLite
     </td>
   </tr>
 </table>
