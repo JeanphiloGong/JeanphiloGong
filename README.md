@@ -9,6 +9,8 @@ Currently building <a href="https://github.com/JeanphiloGong/daokin"><strong>Dao
 <p>
   <a href="https://jeanphilogong.github.io/jeanblog/"><img src="assets/icon-web.svg" width="18" height="18" alt=""> Blog</a>
   &nbsp;&nbsp;
+  <a href="https://x.com/xiao20896430178">X · @xiao20896430178</a>
+  &nbsp;&nbsp;
   <a href="mailto:xiao67004@gmail.com"><img src="assets/icon-mail.svg" width="18" height="18" alt=""> xiao67004@gmail.com</a>
   &nbsp;&nbsp;
   <a href="https://github.com/JeanphiloGong?tab=repositories"><img src="assets/icon-web.svg" width="18" height="18" alt=""> Projects</a>
