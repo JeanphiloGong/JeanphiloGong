@@ -13,7 +13,7 @@ Currently building <a href="https://github.com/JeanphiloGong/daokin"><strong>Dao
   &nbsp;&nbsp;
   <a href="https://github.com/JeanphiloGong?tab=repositories"><img src="assets/icon-web.svg" width="18" height="18" alt=""> Projects</a>
   &nbsp;&nbsp;
-  <a href="https://github.com/JeanphiloGong/daokin/issues"><img src="assets/icon-chat.svg" width="18" height="18" alt=""> Let's talk</a>
+  <a href="https://t.me/Jeanphilo"><img src="assets/icon-chat.svg" width="18" height="18" alt=""> Telegram · @Jeanphilo</a>
 </p>
 
 ## Selected work
